@@ -16,7 +16,7 @@
     "react-router": "5.2.0",
     "react-router-dom": "5.2.0",
     "react-scripts": "5.0.1",
-    "sass": "1.53.0"
+    "sass": "1.57.1"
   },
   "optionalDependencies": {
     "jquery": "3.5.1",
